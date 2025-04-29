@@ -7,7 +7,8 @@ p {
     color: navy;
 }
 
-#sale{
+.sale
+{
     font-weight: bold;
     color: aqua;
 }
